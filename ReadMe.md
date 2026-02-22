@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building and refining a Travel Agency web application.  
+🔭 Currently building and refining MediPredict AI.  
 🧠 Focused on strengthening Data Structures & Algorithms fundamentals.  
 ⚙️ Interested in scalable system design and backend engineering concepts.  
 ☁️ Exploring AI and Cloud technologies to understand modern architecture.  
