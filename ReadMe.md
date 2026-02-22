@@ -1,49 +1,35 @@
-Mukund Bansal
+# 💫 About Me:
+🔭 Currently building and refining a Travel Agency web application.  
+🧠 Focused on strengthening Data Structures & Algorithms fundamentals.  
+⚙️ Interested in scalable system design and backend engineering concepts.  
+☁️ Exploring AI and Cloud technologies to understand modern architecture.  
+💬 Open to meaningful tech discussions and collaboration opportunities.  
 
-Software Engineer focused on Java, Data Structures & Algorithms, and scalable system design.
+---
 
-I approach development with a systems mindset — understanding how components interact, scale, and evolve rather than just writing isolated code.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mukundbnsal/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukundbansal10/) 
 
-Currently strengthening backend fundamentals, problem-solving skills, and exploring modern system architecture concepts including AI and Cloud technologies.
+---
 
-💻 Tech Stack
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Languages & Core Concepts
+---
 
-Java
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mukundbansal10&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 
-Data Structures & Algorithms
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukundbansal10&theme=react&hide_border=true&layout=compact)
 
-Object-Oriented Programming
+---
 
-Web & Database
-
-HTML5
-
-CSS3
-
-JavaScript
-
-MySQL
-
-Tools
-
-Git
-
-GitHub
-
-🚀 Selected Projects
-
-Community-Based Project (Nexuspace) – A structured platform-style application focused on modular design and scalable architecture concepts.
-
-Simple Banking System (Java) – Console-based system demonstrating OOP principles and structured logic implementation.
-
-DSA Problem Solving Repository – Collection of structured solutions covering arrays, strings, recursion, sorting, and core algorithms.
-
-📫 Connect With Me
-
-LinkedIn: https://linkedin.com/in/mukundbansal10
-
-Email: mukundbansal10@gmail.com
-
-📊 GitHub Stats
+## 🏆 GitHub Highlights
+![](https://github-profile-trophy.vercel.app/?username=Mukundbansal10&theme=radical&no-frame=true&no-bg=true&margin-w=6)
