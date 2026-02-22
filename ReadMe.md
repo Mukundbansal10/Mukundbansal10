@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on MediPredict AI.<br>👯 I’m looking to collaborate .<br>🤝 I’m looking for help with my current project.<br>🌱 I’m currently learning data structure. <br>💬 Ask me about<br>
+🔭 Building **MediPredict AI** with a focus on structured architecture and practical implementation.  
+⚙️ Continuously refining skills in Java and Data Structures to design efficient, maintainable systems.  
+🤝 Open to collaborating on backend-focused or system-oriented projects.  
+💡 Interested in scalable architectures, AI integration, and performance-aware design.
 
 
 ## 🌐 Socials:
