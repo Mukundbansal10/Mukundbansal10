@@ -139,9 +139,11 @@ class MukundBansal {
 
 <div align="center">
 
-![snake gif](https://github.com/Mukundbansal10/Mukundbansal10/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Mukundbansal10/Mukundbansal10/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+```
+
 
 ---
 
