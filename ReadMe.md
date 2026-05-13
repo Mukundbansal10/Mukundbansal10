@@ -30,8 +30,8 @@
 <!-- Customize: update the summary lines as your focus evolves -->
 ```yaml
 Name: Mukund Bansal
-Roles: Java Developer | Full‑Stack (MERN) Builder | AI Chatbot Developer
-Focus: Backend systems, analytics dashboards, and developer‑centric UI
+Roles: Java Developer | Full-Stack (MERN) Builder | AI Chatbot Developer
+Focus: Backend systems, analytics dashboards, and developer-centric UI
 ```
 
 - Built **SalesNest** — MERN sales management dashboard with analytics + JWT auth.
