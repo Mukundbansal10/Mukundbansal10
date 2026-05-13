@@ -1,109 +1,161 @@
 
-<h1 align="center">Hi 👋, I'm Mukund Bansal</h1>
-<h3 align="center">🚀 Java Developer | AI Enthusiast | Backend Focused</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+There+👋;I'm+Mukund+Bansal;Java+Developer+⚡;AI+Enthusiast+🤖;Backend+Engineer+🚀" />
+</h1>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Java+%7C+DSA+%7C+AI+Integration;Open+Source+Contributor;Always+Learning+Something+New+⚡" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=FUTURE%20IS%20BEING%20CODED&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=00F7FF&animation=fadeIn&fontSize=42"/>
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
 
-## 💫 About Me
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRmYW9jdzU4M3d6NzN0bHV4eW9oNDFuODl2MXJ3bDJuNWhsZXQ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="320"/>
 
-- 🔭 Currently building **MediPredict AI**
-- 🌱 Learning advanced **Java, DSA & System Design**
-- ⚡ Passionate about **Backend Development & AI Integration**
-- 🧠 Interested in scalable architectures & optimized systems
-- 🤝 Open to collaboration on innovative projects
-- 🎯 Goal: Become a high-level software engineer building impactful products
+</div>
 
-<br>
+# 💫 SYSTEM.INFO()
+
+```yaml
+Name: Mukund Bansal
+Role: Java Developer
+Focus: Backend Systems & AI Integration
+Status: Building scalable and impactful projects
+Learning: Advanced Java • DSA • System Design
+Goal: Software Engineer capable of building large-scale systems
+````
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ ABOUT_ME.EXE
+
+<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+```java
+class MukundBansal {
+
+    String[] skills = {
+        "Java",
+        "Backend Development",
+        "System Design",
+        "AI Integration",
+        "Problem Solving"
+    };
+
+    String currentProject = "MediPredict AI";
+
+    String passion = "Building scalable systems";
+
+    boolean openToCollaborate = true;
+}
+```
+
+<br><br><br>
+
+---
+
+# 🌐 CONNECT_WITH_ME()
 
 <div align="center">
 
 <a href="https://instagram.com/mukundbnsal/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 <a href="https://linkedin.com/in/mukundbansal10/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
 </a>
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+# 💻 TECH_STACK()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED_PROJECTS()
 
 <div align="center">
 
-| Project | Description |
-|----------|-------------|
-| 🧠 MediPredict AI | AI-powered healthcare prediction system |
-| 🌐 Nexuspace | Modern community-based platform |
-| 🛒 TrendHive | Shopify-based dropshipping store |
+| 🚀 Project        | ⚡ Description                                 |
+| ----------------- | --------------------------------------------- |
+| 🧠 MediPredict AI | AI-powered healthcare prediction system       |
+| 🌌 Nexuspace      | Modern community-based collaboration platform |
+| 🛒 TrendHive      | Shopify-based dropshipping platform           |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB_ANALYTICS()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukundbansal10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mukundbansal10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukundbansal10&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukundbansal10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukundbansal10&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukundbansal10&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 ACHIEVEMENTS_UNLOCKED()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mukundbansal10&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mukundbansal10&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION_MATRIX()
 
 <div align="center">
 
-[![Mukund's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukundbansal10&theme=tokyo-night)](https://github.com/Mukundbansal10)
+[![Mukund's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukundbansal10\&theme=react-dark\&bg_color=0D1117\&hide_border=true)](https://github.com/Mukundbansal10)
 
 </div>
 
 ---
 
-# ⚡ Developer Quote
+# 🐍 CONTRIBUTION_SNAKE()
+
+<div align="center">
+
+![snake gif](https://github.com/Mukundbansal10/Mukundbansal10/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 👁 PROFILE_VISITORS()
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mukundbansal10&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚡ DAILY_DEV_QUOTE()
 
 <div align="center">
 
@@ -113,29 +165,15 @@
 
 ---
 
-# 👀 Profile Views
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mukundbansal10&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
 
----
+<h3 align="center">
 
-# 🐍 Contribution Snake Animation
+⚡ CODE • BUILD • SCALE • REPEAT ⚡
 
-<div align="center">
-
-![snake gif](https://github.com/Mukundbansal10/Mukundbansal10/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 “Code. Build. Scale. Repeat.” 🚀
-
-</div>
+</h3>
 ```
